@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name">My Application</string>
+    <string name="send">Send</string>
+    <string name="weight">Weight: 52 kg</string>
+    <string name="angela_slater">Angela Slater</string>
+    <string name="target">Daily Target purpose: 53%</string>
+    <string name="height">Height: 165 cm</string>
+    <string name="_name">Name</string>
+    <string name="_message">Message</string>
+    <string name="_textview">Status</string>
+</resources>
